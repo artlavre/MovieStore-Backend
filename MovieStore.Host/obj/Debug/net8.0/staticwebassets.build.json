@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "saG5Bb0P6RI4kO4TvlDu/Buq9wvwKrhu/mnXALjUa1w=",
+  "Source": "MovieStore.Host",
+  "BasePath": "_content/MovieStore.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

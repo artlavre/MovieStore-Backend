@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MovieStore.Host.props" />
+</Project>
