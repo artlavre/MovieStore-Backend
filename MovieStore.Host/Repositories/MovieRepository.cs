@@ -44,7 +44,7 @@ public class MovieRepository : IMovieRepository
 
             var sortedMovies = SortMovies(movies, movieQueryDto);
             
-            return await sortedMovies.ToListAsync();;   
+            return await sortedMovies.ToListAsync();   
         }
     }
 

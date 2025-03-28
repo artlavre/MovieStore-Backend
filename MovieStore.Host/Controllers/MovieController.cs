@@ -9,12 +9,10 @@ namespace MovieStore.Host.Controllers;
 public class MovieController : ControllerBase
 {
     private readonly IMovieRepository _movieRepository;
-    private readonly IMinioService _minioService;
     
-    public MovieController(IMovieRepository movieRepository, IMinioService minioService)
+    public MovieController(IMovieRepository movieRepository)
     {
         _movieRepository = movieRepository;
-        _minioService = minioService;
     }
 
     [HttpGet("movies/{id}")]
@@ -39,12 +37,5 @@ public class MovieController : ControllerBase
         var result = await _movieRepository.AddMovie(addMovieDto);
         
         return Ok(result);
-    }
-
-    [HttpPost("MinioCover")]
-    public async Task<ActionResult> AddCover(IFormFile file, string fileName, string contentType)
-    {
-        await _minioService.UploadAsync(file, fileName);
-        return Ok();
     }
 }

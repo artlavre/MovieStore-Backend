@@ -188,3 +188,4 @@ D:\Documents\Работа\MovieStoreBackend\MovieStore\MovieStore.Host\bin\Debug
 D:\Documents\Работа\MovieStoreBackend\MovieStore\MovieStore.Host\bin\Debug\net8.0\Minio.dll
 D:\Documents\Работа\MovieStoreBackend\MovieStore\MovieStore.Host\bin\Debug\net8.0\System.IO.Hashing.dll
 D:\Documents\Работа\MovieStoreBackend\MovieStore\MovieStore.Host\bin\Debug\net8.0\System.Reactive.dll
+D:\Documents\Работа\MovieStoreBackend\MovieStore\MovieStore.Host\obj\Debug\net8.0\MovieStore.Host.sourcelink.json

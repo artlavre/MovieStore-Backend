@@ -9,7 +9,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f04f2c7-fa7b-40b7-803f-021e1bffcfc4" name="Changes" comment="" />
+    <list default="true" id="1f04f2c7-fa7b-40b7-803f-021e1bffcfc4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MovieStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/Controllers/MovieController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/Controllers/MovieController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/bin/Debug/net8.0/MovieStore.Host.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/bin/Debug/net8.0/MovieStore.Host.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/bin/Debug/net8.0/MovieStore.Host.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/bin/Debug/net8.0/MovieStore.Host.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/bin/Debug/net8.0/MovieStore.Host.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/bin/Debug/net8.0/MovieStore.Host.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/MovieStore.Host.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/MovieStore.Host.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/MovieStore.Host.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/MovieStore.Host.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/MovieStore.Host.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/MovieStore.Host.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/MovieStore.Host.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/MovieStore.Host.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/MovieStore.Host.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/MovieStore.Host.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/ref/MovieStore.Host.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/ref/MovieStore.Host.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/refint/MovieStore.Host.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MovieStore.Host/obj/Debug/net8.0/refint/MovieStore.Host.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +32,21 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;artlavre&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/artlavre/MovieStore-Backend.git&quot;,
+    &quot;accountId&quot;: &quot;c429df2e-1a43-4fcc-a52b-a69c25e285ce&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7d81b2d4f22bee75e5438c707251ae43cb0974c207db91ffc159118c84b4eb9/ServiceProvider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b5ce248cd9a8b3be41a6e24dd1d2bb7466ae3aab2f3ba3c8f56ec6a5aa30c06d/InferParameterBindingInfoConvention.cs" root0="FORCE_HIGHLIGHTING" />
@@ -28,6 +57,7 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2sPXybwI7hF7DxovqeqAEE7Dwd2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +66,9 @@
   &quot;keyToString&quot;: {
     &quot;.NET Launch Settings Profile.MovieStore.Host: IIS Express.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.5009311&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.50094163&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -110,6 +142,14 @@
       <workItem from="1739364000446" duration="10388000" />
       <workItem from="1739467081952" duration="2906000" />
       <workItem from="1739535414546" duration="3815000" />
+      <workItem from="1739825510487" duration="270000" />
+      <workItem from="1739986361209" duration="3342000" />
+      <workItem from="1740237190720" duration="3170000" />
+      <workItem from="1740302443367" duration="146000" />
+      <workItem from="1740605529321" duration="326000" />
+      <workItem from="1740606059636" duration="275000" />
+      <workItem from="1740701835187" duration="1151000" />
+      <workItem from="1740865455179" duration="1516000" />
     </task>
     <servers />
   </component>
@@ -119,24 +159,5 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/MovieStore.Host/Services/MinioService.cs</url>
-          <line>20</line>
-          <properties documentPath="D:\Documents\Работа\MovieStoreBackend\MovieStore\MovieStore.Host\Services\MinioService.cs" containingFunctionPresentation="Method 'UploadAsync'">
-            <startOffsets>
-              <option value="578" />
-            </startOffsets>
-            <endOffsets>
-              <option value="662" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
