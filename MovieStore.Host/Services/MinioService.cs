@@ -38,7 +38,7 @@ public class MinioService : IMinioService
         await _client.PutObjectAsync(putObjectArgs);
     }
 
-    public async Task<string?> GetAsync(string fileName)
+    public async Task<string?> GetCoverAsync(string fileName)
     {
         if (!await ObjectExistsAsync(fileName))
         {
@@ -48,7 +48,7 @@ public class MinioService : IMinioService
         var presignedObjectArgs = new PresignedGetObjectArgs()
             .WithBucket(_minioConfig.PhotosBucket)
             .WithObject(fileName)
-            .WithExpiry(24 * 60 * 60);
+            .WithExpiry(7 * 24 * 60 * 60);
         
         return await _client.PresignedGetObjectAsync(presignedObjectArgs);
     }

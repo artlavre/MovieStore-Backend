@@ -1,6 +1,7 @@
 using Marten;
 using Minio;
 using MovieStore.Host.Contracts;
+using MovieStore.Host.HostedServices;
 using MovieStore.Host.Models;
 using MovieStore.Host.Repositories;
 using MovieStore.Host.Services;
@@ -47,6 +48,8 @@ builder.Services.AddCors(options =>
 
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
 builder.Services.AddSingleton<IMinioService, MinioService>();
+
+builder.Services.AddHostedService<CoverUpdateService>();
 
 var app = builder.Build();
 

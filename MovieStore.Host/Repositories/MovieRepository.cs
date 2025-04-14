@@ -106,8 +106,9 @@ public class MovieRepository : IMovieRepository
     {
         await _minioService.UploadAsync(coverImage, movie.Id.ToString());
         
-        var fileUrl = await _minioService.GetAsync(movie.Id.ToString());
+        var fileUrl = await _minioService.GetCoverAsync(movie.Id.ToString());
         
         movie.CoverUrl = fileUrl;
+        movie.CoverExpiryDate = DateTime.Now.AddDays(-7);
     }
 }
